@@ -127,7 +127,7 @@ The system simulates real-time intrusion detection by:
 
 ---
 
-## Technologies Used
+## Technologies Used(vs studio)
 - Python  
 - NumPy, Pandas  
 - Scikit-learn  
